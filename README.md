@@ -1,5 +1,5 @@
-# Naivecoin UI
+# M-AgnosticUI
 
-The repository for chapter6 UI code of naivecoin
+The repository for DApp UI code of mcoin and mchain
 
-The naivecoin tutorial: https://lhartikk.github.io/
+Based on the naivecoin tutorial: https://lhartikk.github.io/
